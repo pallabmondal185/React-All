@@ -1,0 +1,21 @@
+
+#testimonials{
+    padding: 50px;
+    background-image: linear-gradient(to right,rgb(228, 216, 216),rgb(233, 201, 201));
+}
+.testimonials{
+    border-left: 3px solid #8b4513;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.user-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.user-details{
+    display: inline-block;
+    margin: 5px;
+    font-size: 12px;
+}

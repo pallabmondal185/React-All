@@ -1,0 +1,16 @@
+#contact{
+    padding: 50px;
+    background-image: linear-gradient(to right,#ebe6df,rgb(243, 233, 233));
+}
+.contact-img2{
+    height: 350px;
+    width: 70%;
+}
+.contact-img1{
+    height: 120px;
+    width: 50%;
+}
+.contact-text{
+    padding: 30px;
+    font-size: 15px;
+}

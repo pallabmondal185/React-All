@@ -1,0 +1,14 @@
+#about-us{
+    background-image: linear-gradient(to right,#ebe6df,rgb(243, 233, 233));
+    padding: 50px;
+}
+#about-us ul li{
+    margin: 10px 0;
+}
+#about-us h4{
+    margin-left: 25px;
+}
+.about-img{
+    height: 250px;
+    width: 100%;
+}

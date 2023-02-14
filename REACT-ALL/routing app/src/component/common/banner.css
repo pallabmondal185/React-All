@@ -1,0 +1,19 @@
+#banner{
+    background-image: url('../../asset/image/back-img-laptop.jpg');
+    height: 530px;
+    width: 100%;
+    background-size: 100% 100% ;
+    margin-top: 1px !important;
+}
+.banner-text{
+    color: #fff;
+    padding: 20px;
+}
+.banner button{
+    margin: 5px 10px;
+    padding: 8px 30px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,rgb(228, 216, 216),rgb(186, 158, 158));
+    color: #642b05;
+}

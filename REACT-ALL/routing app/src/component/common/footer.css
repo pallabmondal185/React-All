@@ -1,0 +1,24 @@
+#footer{
+    background-image: linear-gradient(to right,#89623e,#8b4513);
+    width: 100%;
+    background-size: 100% 100%;
+    color: rgba(243, 233, 233, 0.817);
+    font-size: 15px;
+    padding: 0 50px;
+}
+.footer h4{
+    color: #fff;
+}
+.footer{
+    padding: 50px 10px;
+}
+.footer ul li a{
+    color: rgba(243, 233, 233, 0.817);
+}
+.footer,.col-md-4{
+    padding: 20px;
+}
+.copyright-text{
+    font-size: 12px;
+    text-align: center;
+}
