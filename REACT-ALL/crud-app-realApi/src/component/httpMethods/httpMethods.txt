@@ -1,0 +1,32 @@
+=> The Hypertext Transfer Protocol (HTTP) is designed to enable communications between clients and servers.
+=> HTTP works as a request-response protocol between a client and server.
+
+=>http methods are:- GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS, CONNECT, TRACE.
+
+1. GET: GET is used to request data from a specified resource.
+2. POST: POST is used to send data to a server to create/update a resource.
+3. PUT: PUT is used to send data to a server to create/update a resource.
+    The difference between POST and PUT is, calling the same PUT request multiple times will always produce the same result. In contrast, calling a POST request repeatedly have side effects of creating the same resource multiple times.
+4. DELETE: The DELETE method deletes the specified resource.
+5. PATCH: The PATCH method is used to apply partial modifications to a resource.
+    PUT is a method of modifying resource where the client sends data that updates the entire resource . PATCH is a method of modifying resources where the client sends partial data that is to be updated without modifying the entire data.
+    PUT handles updates by replacing the entire entity, while PATCH only updates the fields that you give it
+
+=> Compare GET vs. POST
+1. when sending data, the GET method adds the data to the URL; and the length of a URL is limited (maximum  URL length is 2048 characters).
+There is no restriction fer POST Method.
+
+2. Only ASCII characters allowed for Get method.
+No restrictions. Binary data is also allowed for Post Method.
+
+3. Parameters remain in browser history on Get Method.
+Parameters are not saved in browser history on Post Method
+
+4. GET Method is less secure compare to POST Method.
+
+5. Data is visible to everyone in the URL in GEt Method.
+Data is not displayed in the URL in POST Method.
+
+6. Can be bookmarked in GET Method.	
+Cannot be bookmarked in POST Method.
+

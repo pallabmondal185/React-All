@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "pallab Mondal",
+      "email": "pallab@gmail.com",
+      "phone": "8670858747",
+      "city": "KOLKATA",
+      "id": 1
+    },
+    {
+      "name": "kapil sharma",
+      "email": "kapil@gmail.com",
+      "phone": "8745124574",
+      "city": "raigange",
+      "id": 2
+    },
+    {
+      "name": "Asim kapat",
+      "age": 29,
+      "email": "asim@gmail.com",
+      "phone": 5545808412,
+      "id": 3
+    },
+    {
+      "name": "Niladri Mondal",
+      "email": "niladri@gmail.com",
+      "phone": "8674851027",
+      "city": "delhi",
+      "id": 4
+    }
+  ]
+}
