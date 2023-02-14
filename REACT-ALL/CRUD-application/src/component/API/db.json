@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "pallab Mondal",
+      "email": "pallab@gmail.com",
+      "phone": "8670858747",
+      "city": "KOLKATA",
+      "id": 1
+    },
+    {
+      "name": "anindita dutta",
+      "email": "anin@gmail.com",
+      "phone": "5874512578",
+      "city": "delhi",
+      "id": 3
+    },
+    {
+      "name": "chandan kk",
+      "email": "abhi@gmail.com",
+      "phone": "784354132",
+      "city": "kanpur",
+      "id": 5
+    }
+  ]
+}

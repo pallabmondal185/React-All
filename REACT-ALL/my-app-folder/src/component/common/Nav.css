@@ -1,0 +1,22 @@
+nav a{
+    color: white !important;
+}
+nav.navbar{
+    background-color: rgb(71, 67, 67) !important;
+}
+
+nav ul li a:hover{
+    /* background-color:green !important; */
+    border: 2px solid green;
+}
+nav ul li a:active{
+    background-color: brown !important;
+}
+
+nav ul li a::after{
+    background-color: blueviolet !important;
+}
+li .active{
+    padding-bottom: 0;
+    border-bottom: 2px solid blue;
+}
